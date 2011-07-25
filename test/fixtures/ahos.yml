@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+one:
+  id: 1
+  tracker_id: 
+  workflow_id: 
+  status_id: 
+  assigned_to_id: 1
+two:
+  id: 2
+  tracker_id: 
+  workflow_id: 
+  status_id: 
+  assigned_to_id: 1

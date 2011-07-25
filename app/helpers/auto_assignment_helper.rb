@@ -1,0 +1,2 @@
+module AutoAssignmentHelper
+end
